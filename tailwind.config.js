@@ -15,6 +15,7 @@ module.exports = {
         'play-home': '0px 20px 49px -10px',
         'orange-home': '0px 7px 12px -8px',
         'delivery-time': '-10px 25px 30px -10px rgba(0,0,0,0.08)',
+        'choose-us': '0px 15px 35px -20px black',
       }
     },
   },
