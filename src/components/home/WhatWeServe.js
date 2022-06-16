@@ -5,7 +5,7 @@ import SecureCheckout from '../../assets/images/secure-checkout.svg';
 
 const WhatWeServe = () => {
   return (
-    <div className='bg-g-lighterRed w-full h-auto my-16 py-16'>
+    <div className='bg-g-lighterRed w-full h-auto my-[100px] py-16'>
         <div className='container w-full items-center mx-auto'>
             <div className='flex flex-col align-middle w-full'>
                 <p className='text-base font-medium text-center m-0 text-[#F54748]'>
